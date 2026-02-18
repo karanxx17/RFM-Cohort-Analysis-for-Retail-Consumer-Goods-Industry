@@ -1,4 +1,4 @@
-# 🛒 Retail & Marketing Analytics
+# 🛒 RFM-Cohort Analysis for Retail & Marketing Industry
 ### End-to-End Customer Segmentation & Sales Optimization
 
 > *Turning 10,000 raw transactions into revenue-driving strategy — from messy CSV to executive boardroom.*
