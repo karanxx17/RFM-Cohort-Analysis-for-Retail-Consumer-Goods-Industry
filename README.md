@@ -3,11 +3,11 @@
 
 > *Turning 10,000 raw transactions into revenue-driving strategy — from messy CSV to executive boardroom.*
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-2.x-green?logo=pandas)](https://pandas.pydata.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive-purple?logo=plotly)](https://plotly.com)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
+\[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
+\[![Pandas](https://img.shields.io/badge/Pandas-2.x-green?logo=pandas)](https://pandas.pydata.org)
+\[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org)
+\[![Plotly](https://img.shields.io/badge/Plotly-Interactive-purple?logo=plotly)](https://plotly.com)
+\[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org)
 
 ---
 
